@@ -1,6 +1,4 @@
-Here Gathered some notes on system architecure and design pattern.
-You can learn about below pattern and there use. Code writen in java.Just put those script in chat gpt and ask qus ... you can learn fast in this approach.
-Secondly, by reading about system architecture, you will learn about different types of software architectures such as MVP, MVVM, client–server, or master–slave.
+
 | **Pattern** | **Category** | **Typical Use Case** |
 | --- | --- | --- |
 | **Singleton** | Creational | Managing shared resources like **database connections**, **logging**, **config** |
